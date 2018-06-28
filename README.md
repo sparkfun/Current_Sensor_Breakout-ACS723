@@ -16,6 +16,11 @@ Documentation
 -------------------
 [Hookup Guide](https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide) - Basic hookup guide for the ACS723 Current Sensor Breakout.
 
+Product Versions
+----------------
+* [13679](https://www.sparkfun.com/products/13679)- Current ACS723 Version of this Board
+* [08882 (RETIRED)](https://www.sparkfun.com/products/retired/8882)- Initial release; ACS712 Version of this Board
+
 License Information
 -------------------
 
