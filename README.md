@@ -1,7 +1,7 @@
 SparkFun Current Sensor Breakout - ACS723
 =====================================================
 
-![SparkFun Current Sensor Breakout - ACS723](https://cdn.sparkfun.com/assets/parts/1/1/1/3/1/13679-SparkFun_Current_Sensor_Breakout_-_ACS723_-01.jpg)
+[![SparkFun Current Sensor Breakout - ACS723](https://cdn.sparkfun.com//assets/parts/1/1/1/3/1/13679-SparkFun_Current_Sensor_Breakout_-_ACS723-01.jpg)](https://www.sparkfun.com/products/13679)
 
 [*SparkFun Current Sensor Breakout - ACS723 (SEN-13679)*](https://www.sparkfun.com/products/13679)
 
